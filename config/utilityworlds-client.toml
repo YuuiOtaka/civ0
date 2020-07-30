@@ -1,0 +1,5 @@
+
+[client]
+	# Set to false for an Overworld-like background in the Void World.
+	darkVoidWorld = true
+

@@ -1,0 +1,9 @@
+
+[general]
+	# Set to true to enable the Garden World recipe.
+	enableGardenWorld = true
+	# Set to true to allow portal blocks to be crafted by players.
+	allowPortalCrafting = true
+	# Set to true to allow players to respawn in Utility Worlds dimensions.
+	allowDimensionRespawn = false
+
